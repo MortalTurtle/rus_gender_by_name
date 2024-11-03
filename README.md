@@ -9,7 +9,7 @@ pip3 install rus-gender-detection
 ## Использование
 
 ```python
-from rusgenderdetection import get_gender
+from genderbyrusname import get_gender
 
 print(get_gender("Николай"))                    # prints 1
 print(get_gender("светлана", use_strings=True)) # prints "female" 
