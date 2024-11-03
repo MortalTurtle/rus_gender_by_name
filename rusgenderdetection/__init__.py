@@ -1,1 +1,1 @@
-from rusgenderbyname.byrusname import get_gender
+from genderbyrusname.byrusname import get_gender
