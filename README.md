@@ -4,7 +4,7 @@
 
 ##  Установка
 
-pip3 install rus-gender-detection
+pip3 install gender-by-rus-name
 
 ## Использование
 
