@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='gender_by_rus_name',
-    version='0.0.2',
+    version='0.0.6',
     packages=['genderbyrusname'],
     url='https://github.com/MortalTurtle/rus_gender_by_name/tree/master/rusgenderdetection',
     author='Nikolay Putko',
