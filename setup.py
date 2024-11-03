@@ -1,12 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='rus_gender_detection',
+    name='gender_by_rus_name',
     version='1.0.0',
-    packages=['rusgenderdetection'],
-    url='https://github.com/Omni-K/rus_gender_detection',
-    license='MIT License',
+    packages=['genderbyrusname'],
+    url='https://github.com/MortalTurtle/rus_gender_by_name/tree/master/rusgenderdetection',
     author='Nikolay Putko',
-    author_email='nikolay@putko.ru',
     description='Determinates gender by russian full name'
 )
